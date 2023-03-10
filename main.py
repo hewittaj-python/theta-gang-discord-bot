@@ -1,21 +1,8 @@
-import discord
-import os
 from dotenv import load_dotenv
+import api_call as ac
+import discord
+import json
+import os
+import requests
 
-load_dotenv()
-TOKEN = os.getenv('TOKEN')
-client = discord.Client(intents=discord.Intents.default()) # i
-
-@client.event
-async def on_ready():
-    print(f"We have logged in as {client.user}")
-
-@client.event
-async def on_message(message):
-    # if message.author == client.user:
-    #     return
-    
-    if message.content.startswith('$hello'):
-        await message.channel.send('Hello!')
-
-client.run(TOKEN)
+user_trades = ac.get_user_trades("hewittaj")
