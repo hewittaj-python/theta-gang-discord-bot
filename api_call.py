@@ -1,11 +1,11 @@
 import requests
 import json
 
-def dump_to_json(json_object):
+def dump_to_json(json_object, filename):
     """
     Dump .json object to file for testing purposes
     """
-    with open("trades.json", "w") as f:
+    with open(f"{filename}", "w") as f:
         json.dump(json_object, f, ensure_ascii=False, indent=4)
 
 def get_user_trades(user):
@@ -15,10 +15,7 @@ def get_user_trades(user):
     trades_list = []
     try:
         response = requests.get(f"https://api.thetagang.com/trades?username={user}").json()
-        dump_to_json(response)
-        # for info in response_json:
-        #     print(info)
-        print_json(response)
+        dump_to_json(response, f"{user}_trades.json")
         
         if response.status_code != 200:
             raise Exception("Error")
@@ -26,18 +23,21 @@ def get_user_trades(user):
         pass
 
 
-def get_homepage_trades():
+def get_latest_homepage_trades():
     """
     Gets home page trades
     """
-    pass
+    trades_list = []
+    try:
+        start_page_number = 0
+        response = requests.get(f" https://api.thetagang.com/timeline?page={start_page_number}").json()
+        dump_to_json(response, "homepage_trades.json")
+        
+        if response.status_code != 200:
+            raise Exception("Error")
+    except:
+        pass
 
-def print_json(json_object):
-    """ 
-    Create a formatted string of the .json object
-    """
-    text = json.dumps(json_object, indent=4)
-    print(text)
 
 def read_from_json():
     pass

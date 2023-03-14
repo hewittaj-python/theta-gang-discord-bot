@@ -6,3 +6,4 @@ import os
 import requests
 
 user_trades = ac.get_user_trades("hewittaj")
+home_page_trades = ac.get_homepage_trades()

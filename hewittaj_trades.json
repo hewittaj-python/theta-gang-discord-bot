@@ -4,6 +4,135 @@
         "trades": [
             {
                 "pl": 0,
+                "guid": "72970a07-ddbc-4709-b883-16fb5d7bae10",
+                "expiry_date": "2023-03-24T05:00:00.000Z",
+                "close_date": null,
+                "open_date": "2023-03-14T14:40:51.957Z",
+                "symbol": "AMD",
+                "initial": false,
+                "quantity": 1,
+                "type": "CALL CREDIT SPREAD",
+                "payment": "credit",
+                "win": null,
+                "profitLoss": null,
+                "user_guid": "bc4e1bcd-848b-4efb-b9b3-ff44eb0ed17e",
+                "tag": null,
+                "short_put": null,
+                "long_put": null,
+                "short_call": "90",
+                "long_call": "91",
+                "price_filled": 0.37,
+                "price_closed": null,
+                "open_quote": 87.73,
+                "close_quote": null,
+                "assigned": null,
+                "earnings": false,
+                "tweet_id": null,
+                "opened_during_market_hours": null,
+                "closed_during_market_hours": null,
+                "closed_before_expiration": null,
+                "note": null,
+                "closing_note": null,
+                "createdAt": "2023-03-14T14:40:51.957Z",
+                "updatedAt": "2023-03-14T14:40:52.890Z",
+                "Actions": [],
+                "Posts": [],
+                "User": {
+                    "username": "hewittaj",
+                    "flair": null,
+                    "role": "patron",
+                    "streak": 2,
+                    "verified": null
+                }
+            },
+            {
+                "pl": 0,
+                "guid": "e7c856cd-8b0c-4efe-86e0-e39be4684df0",
+                "expiry_date": "2023-03-24T05:00:00.000Z",
+                "close_date": null,
+                "open_date": "2023-03-14T14:11:57.879Z",
+                "symbol": "AMD",
+                "initial": false,
+                "quantity": 1,
+                "type": "CALL CREDIT SPREAD",
+                "payment": "credit",
+                "win": null,
+                "profitLoss": null,
+                "user_guid": "bc4e1bcd-848b-4efb-b9b3-ff44eb0ed17e",
+                "tag": null,
+                "short_put": null,
+                "long_put": null,
+                "short_call": "88",
+                "long_call": "89",
+                "price_filled": 0.4,
+                "price_closed": null,
+                "open_quote": 86.355,
+                "close_quote": null,
+                "assigned": null,
+                "earnings": false,
+                "tweet_id": null,
+                "opened_during_market_hours": null,
+                "closed_during_market_hours": null,
+                "closed_before_expiration": null,
+                "note": null,
+                "closing_note": null,
+                "createdAt": "2023-03-14T14:11:57.879Z",
+                "updatedAt": "2023-03-14T14:11:58.844Z",
+                "Actions": [],
+                "Posts": [],
+                "User": {
+                    "username": "hewittaj",
+                    "flair": null,
+                    "role": "patron",
+                    "streak": 2,
+                    "verified": null
+                }
+            },
+            {
+                "pl": 0.14,
+                "guid": "69c8ebdf-999a-4cff-890f-efaf6bc08241",
+                "expiry_date": "2023-03-31T05:00:00.000Z",
+                "close_date": "2023-03-14T13:43:34.707Z",
+                "open_date": "2023-03-13T14:49:11.517Z",
+                "symbol": "AMD",
+                "initial": false,
+                "quantity": 1,
+                "type": "PUT CREDIT SPREAD",
+                "payment": "credit",
+                "win": true,
+                "profitLoss": null,
+                "user_guid": "bc4e1bcd-848b-4efb-b9b3-ff44eb0ed17e",
+                "tag": null,
+                "short_put": "77",
+                "long_put": "76",
+                "short_call": null,
+                "long_call": null,
+                "price_filled": 0.32,
+                "price_closed": 0.18,
+                "open_quote": 80.84,
+                "close_quote": 85.815,
+                "assigned": false,
+                "earnings": false,
+                "tweet_id": null,
+                "opened_during_market_hours": null,
+                "closed_during_market_hours": null,
+                "closed_before_expiration": null,
+                "note": null,
+                "closing_note": "",
+                "createdAt": "2023-03-13T14:49:11.517Z",
+                "updatedAt": "2023-03-14T13:43:34.935Z",
+                "Actions": [],
+                "Posts": [],
+                "User": {
+                    "username": "hewittaj",
+                    "flair": null,
+                    "role": "patron",
+                    "streak": 2,
+                    "verified": null
+                }
+            },
+            {
+                "pl": 0,
                 "guid": "70a23292-d9f1-4c37-ac6e-984eec5f85c2",
                 "expiry_date": "2023-04-14T05:00:00.000Z",
                 "close_date": null,
@@ -41,7 +170,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -84,7 +213,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -127,7 +256,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -170,7 +299,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -221,7 +350,7 @@
                             "username": "hewittaj",
                             "flair": null,
                             "role": "patron",
-                            "streak": 4,
+                            "streak": 2,
                             "verified": null
                         }
                     }
@@ -230,7 +359,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -273,7 +402,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -316,7 +445,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -359,7 +488,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -402,7 +531,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -445,7 +574,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -488,7 +617,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -531,7 +660,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -574,7 +703,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -617,7 +746,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -660,7 +789,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -703,7 +832,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -746,7 +875,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -789,7 +918,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -832,7 +961,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -875,7 +1004,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -918,7 +1047,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -961,7 +1090,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -1004,7 +1133,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -1047,7 +1176,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -1090,7 +1219,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -1145,7 +1274,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -1188,7 +1317,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -1231,7 +1360,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -1274,7 +1403,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -1317,7 +1446,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -1360,7 +1489,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -1403,7 +1532,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -1446,7 +1575,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -1489,7 +1618,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -1532,7 +1661,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -1575,7 +1704,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -1618,7 +1747,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -1661,7 +1790,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -1704,7 +1833,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -1747,7 +1876,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -1790,7 +1919,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -1833,7 +1962,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -1876,7 +2005,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -1919,7 +2048,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -1962,7 +2091,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -2005,7 +2134,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -2048,7 +2177,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -2091,7 +2220,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -2134,7 +2263,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -2189,7 +2318,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -2232,7 +2361,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -2275,7 +2404,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -2318,7 +2447,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -2361,7 +2490,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -2404,7 +2533,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -2447,7 +2576,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -2490,7 +2619,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -2533,7 +2662,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -2576,7 +2705,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -2619,7 +2748,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -2662,7 +2791,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -2705,7 +2834,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -2748,7 +2877,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -2803,7 +2932,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -2846,7 +2975,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -2889,7 +3018,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -2932,7 +3061,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -2975,7 +3104,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -3018,7 +3147,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -3061,7 +3190,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -3104,7 +3233,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -3147,7 +3276,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -3190,7 +3319,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -3233,7 +3362,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -3276,7 +3405,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -3319,7 +3448,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -3362,7 +3491,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -3405,7 +3534,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -3448,7 +3577,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -3491,7 +3620,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -3534,7 +3663,7 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             },
@@ -3577,33 +3706,32 @@
                     "username": "hewittaj",
                     "flair": null,
                     "role": "patron",
-                    "streak": 4,
+                    "streak": 2,
                     "verified": null
                 }
             }
         ],
         "metadata": {
-            "winners": 30,
+            "winners": 31,
             "losers": 39,
-            "closed": 78,
-            "netPremium": "-982",
+            "closed": 79,
+            "netPremium": "-968",
             "netPremium2020": "0",
             "netPremium2021": "-1005",
-            "netPremium2022": "23",
+            "netPremium2022": "37",
             "recentSymbols": [
                 "AMD"
             ],
             "recentTradeTypes": [
-                "PUT CREDIT SPREAD",
-                "CALL CREDIT SPREAD"
+                "CALL CREDIT SPREAD",
+                "PUT CREDIT SPREAD"
             ],
             "symbolCounter": {
-                "AMD": 8,
-                "AND": 1,
-                "AMC": 1
+                "AMD": 9,
+                "AND": 1
             },
-            "winPercentage": "43",
-            "averageTradeLength": "120.1"
+            "winPercentage": "44",
+            "averageTradeLength": "118.6"
         }
     },
     "message": null
